@@ -6,3 +6,5 @@ added third line
 creted feature branch
 added second line
 >>>>>>> feature-update
+
+some features added
